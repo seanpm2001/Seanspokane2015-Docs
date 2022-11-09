@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A separate documentation center for older documentation by @seanpm2001, during the SeanSpokane2015 era (2015-2015) redirect to https://github.com/seanpm2001/Seanspokane2015-Documentation/
